@@ -20,5 +20,5 @@ Tools & Technologies
 - Python(Pandas, NumPy)
 - PostgreSQL
 - SQL
-- **Power BI**
-- **Jupyter Notebook**
+- Power BI
+- Jupyter Notebook
